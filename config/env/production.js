@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'https://node-sails-app.azurewebsites.net/',
+      'https://node-sails-app.azurewebsites.net',
     ],
 
 
